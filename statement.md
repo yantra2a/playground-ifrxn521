@@ -1,6 +1,7 @@
 # Welcome!
+Ce code vous parait peut être compliqué mais c'est en réalité le programme le plus simple que l'on
+peut écrire en C++. Je vous laisse cliquer sur run.
 
-This C++ template lets you get started quickly with a simple one-page playground.
 
 ```C++ runnable
 #include <iostream>
@@ -16,4 +17,5 @@ int main()
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced C++ template](https://tech.io/select-repo/598)
+Maintenant je vous propose de remplacer le texte Hello World! par Vive le C++ ! et de relancer
+l'application avec la flèche verte.
