@@ -1,4 +1,6 @@
-title: Simple C++ Template
+title: Apprendre le C++
 plan:
-- title: C++ Snippet
+- title: Introduction
+- title : Qu'est-ce que la c++ ?
+- title: Vos premières ligne de C++
   statement: statement.md
